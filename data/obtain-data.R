@@ -1,9 +1,6 @@
 library("tidyverse")
 library("sf")
-library("janitor")
-library("leaflet")
 library("rmapshaper")
-library("readxl")
 
 ## ==== Brexit Referendum Data ====
 ## Unfortunately, there's not a simple data file that contains the constituency
